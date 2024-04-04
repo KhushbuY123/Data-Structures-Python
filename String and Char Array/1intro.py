@@ -11,4 +11,4 @@ for i in range(n):
     a=input()
     arr.append(a)
 print(arr)
-list
+print(arr[0])
