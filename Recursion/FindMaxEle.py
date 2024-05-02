@@ -9,6 +9,6 @@ n=5
 i=0
 maxi=0
 max_element = find_max(arr, n, i, maxi)
-print("Maximum element in the array:", max_element)
+print(max_element)
 
 
